@@ -1,0 +1,11 @@
+symbol,company_name,sector,degree,degree_centrality,betweenness_centrality,eigenvector_centrality,rank
+DLF,DLF Ltd.,Realty,65,0.3439,0.09079,0.197,1
+ETERNAL,Eternal Ltd.,Consumer Services,4,0.0212,0.08573,0.0102,2
+NAUKRI,Info Edge (India) Ltd.,Consumer Services,7,0.037,0.07205,0.0003,3
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,46,0.2434,0.05327,0.156,4
+JIOFIN,Jio Financial Services Ltd.,Financial Services,70,0.3704,0.03412,0.2096,5
+NMDC,NMDC Ltd.,Metals & Mining,38,0.2011,0.03119,0.1205,6
+RECLTD,REC Ltd.,Financial Services,69,0.3651,0.03109,0.2069,7
+TATAPOWER,Tata Power Co. Ltd.,Power,51,0.2698,0.0277,0.1587,8
+GODREJPROP,Godrej Properties Ltd.,Realty,56,0.2963,0.0273,0.1778,9
+ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,49,0.2593,0.02331,0.1663,10

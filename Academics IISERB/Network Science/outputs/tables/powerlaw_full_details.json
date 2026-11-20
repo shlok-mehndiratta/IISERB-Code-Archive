@@ -1,0 +1,12 @@
+{
+    "alpha": 1.5468,
+    "xmin": 4.0,
+    "ks_distance_D": 0.1836,
+    "power_vs_exponential_R": -5.2039,
+    "power_vs_exponential_p": 0.0,
+    "power_vs_lognormal_R": -5.3135,
+    "power_vs_lognormal_p": 0.0,
+    "exponential_vs_lognormal_R": 3.7751,
+    "exponential_vs_lognormal_p": 0.0002,
+    "conclusion": "Power law rejected in favor of exponential distribution"
+}

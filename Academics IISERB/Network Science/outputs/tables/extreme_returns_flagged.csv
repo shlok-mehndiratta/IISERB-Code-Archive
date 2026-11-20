@@ -1,0 +1,6 @@
+symbol,date,prev_close,event_close,next_close,log_return,pct_change,classification,treatment,verified_source
+INDUSINDBK,2025-03-11,899.04,654.89,683.59,-0.3169,-27.16,Genuine Market Crash,Retained as economic variance,Forex derivatives portfolio losses review
+POLICYBZR,2026-09-24,1886.3,1207.2,1166.0,-0.4463,-36.0,Genuine Market Crash,Retained as economic variance,IRDAI regulatory commission cap draft announcement
+TMPV,2025-10-14,655.31,392.2,387.63,-0.5134,-40.15,Data Artefact (Corporate Spinoff),Single-day return set to NaN; pairwise correlation,Tata Motors commercial vehicle demerger record date
+TRENT,2026-01-01,4272.69,2860.71,2935.4,-0.4012,-33.05,Data Artefact (Unadjusted Bonus Issue),Single-day return set to NaN; pairwise correlation,1:2 bonus issue ex-date price adjustment
+VEDL,2026-04-30,758.51,266.25,288.9,-1.0469,-64.9,Data Artefact (5-Way Demerger Spinoff),Single-day return set to NaN; pairwise correlation,Vedanta multi-entity demerger ex-date discovery

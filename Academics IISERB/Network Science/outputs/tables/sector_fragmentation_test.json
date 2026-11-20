@@ -1,0 +1,782 @@
+[
+    {
+        "threshold_r": 0.55,
+        "total_non_trivial_components": 14,
+        "single_sector_components": 13,
+        "multi_sector_components": 1,
+        "components": [
+            {
+                "component_id": 1,
+                "size": 78,
+                "is_single_sector": false,
+                "sector_breakdown": {
+                    "Financial Services": 23,
+                    "Capital Goods": 12,
+                    "Metals & Mining": 11,
+                    "Power": 8,
+                    "Realty": 6,
+                    "Oil Gas & Consumable Fuels": 5,
+                    "Automobile and Auto Components": 3,
+                    "Construction Materials": 3,
+                    "Services": 2,
+                    "Consumer Services": 2,
+                    "Construction": 2,
+                    "Chemicals": 1
+                },
+                "stocks": [
+                    "HINDZINC",
+                    "ATGL",
+                    "HDFCAMC",
+                    "JSWENERGY",
+                    "ABCAPITAL",
+                    "JIOFIN",
+                    "BPCL",
+                    "ADANIENT",
+                    "NMDC",
+                    "CUMMINSIND",
+                    "HAL",
+                    "BANKINDIA",
+                    "PRESTIGE",
+                    "CHOLAFIN",
+                    "SBIN",
+                    "MOTHERSON",
+                    "CGPOWER",
+                    "SAIL",
+                    "SIEMENS",
+                    "TATAPOWER",
+                    "SHRIRAMFIN",
+                    "ADANIPOWER",
+                    "HINDPETRO",
+                    "YESBANK",
+                    "GMRAIRPORT",
+                    "PFC",
+                    "PHOENIXLTD",
+                    "UNIONBANK",
+                    "IRCTC",
+                    "NTPC",
+                    "DLF",
+                    "AMBUJACEM",
+                    "IRFC",
+                    "GRASIM",
+                    "HINDALCO",
+                    "POWERGRID",
+                    "ASHOKLEY",
+                    "SUZLON",
+                    "BDL",
+                    "JINDALSTEL",
+                    "ULTRACEMCO",
+                    "IREDA",
+                    "BAJAJFINSV",
+                    "GODREJPROP",
+                    "MOTILALOFS",
+                    "ABB",
+                    "CANBK",
+                    "ADANIENSOL",
+                    "COCHINSHIP",
+                    "LTF",
+                    "TMPV",
+                    "TATASTEEL",
+                    "ADANIGREEN",
+                    "BANKBARODA",
+                    "SOLARINDS",
+                    "INDIANB",
+                    "NHPC",
+                    "OBEROIRLTY",
+                    "HINDCOPPER",
+                    "RECLTD",
+                    "LODHA",
+                    "MAZDOCK",
+                    "NATIONALUM",
+                    "INDHOTEL",
+                    "IOC",
+                    "LICHSGFIN",
+                    "BEL",
+                    "PNB",
+                    "VEDL",
+                    "MAHABANK",
+                    "BHARATFORG",
+                    "JSWSTEEL",
+                    "GAIL",
+                    "ADANIPORTS",
+                    "BAJFINANCE",
+                    "RVNL",
+                    "BHEL",
+                    "LT"
+                ]
+            },
+            {
+                "component_id": 2,
+                "size": 9,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Information Technology": 9
+                },
+                "stocks": [
+                    "HCLTECH",
+                    "TECHM",
+                    "MPHASIS",
+                    "LTM",
+                    "INFY",
+                    "PERSISTENT",
+                    "COFORGE",
+                    "WIPRO",
+                    "TCS"
+                ]
+            },
+            {
+                "component_id": 3,
+                "size": 6,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Automobile and Auto Components": 6
+                },
+                "stocks": [
+                    "HEROMOTOCO",
+                    "EICHERMOT",
+                    "MARUTI",
+                    "BAJAJ-AUTO",
+                    "TVSMOTOR",
+                    "M&M"
+                ]
+            },
+            {
+                "component_id": 4,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 3
+                },
+                "stocks": [
+                    "HDFCLIFE",
+                    "SBILIFE",
+                    "MFSL"
+                ]
+            },
+            {
+                "component_id": 5,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "SUPREMEIND",
+                    "ASTRAL"
+                ]
+            },
+            {
+                "component_id": 6,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 2
+                },
+                "stocks": [
+                    "IDFCFIRSTB",
+                    "AUBANK"
+                ]
+            },
+            {
+                "component_id": 7,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Consumer Durables": 2
+                },
+                "stocks": [
+                    "VOLTAS",
+                    "BLUESTARCO"
+                ]
+            },
+            {
+                "component_id": 8,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 2
+                },
+                "stocks": [
+                    "BSE",
+                    "MCX"
+                ]
+            },
+            {
+                "component_id": 9,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Fast Moving Consumer Goods": 2
+                },
+                "stocks": [
+                    "DABUR",
+                    "HINDUNILVR"
+                ]
+            },
+            {
+                "component_id": 10,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Consumer Services": 2
+                },
+                "stocks": [
+                    "ETERNAL",
+                    "SWIGGY"
+                ]
+            },
+            {
+                "component_id": 11,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Telecommunication": 2
+                },
+                "stocks": [
+                    "IDEA",
+                    "INDUSTOWER"
+                ]
+            },
+            {
+                "component_id": 12,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "KEI",
+                    "POLYCAB"
+                ]
+            },
+            {
+                "component_id": 13,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Oil Gas & Consumable Fuels": 2
+                },
+                "stocks": [
+                    "OIL",
+                    "ONGC"
+                ]
+            },
+            {
+                "component_id": 14,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "PREMIERENE",
+                    "WAAREEENER"
+                ]
+            }
+        ]
+    },
+    {
+        "threshold_r": 0.6,
+        "total_non_trivial_components": 17,
+        "single_sector_components": 15,
+        "multi_sector_components": 2,
+        "components": [
+            {
+                "component_id": 1,
+                "size": 26,
+                "is_single_sector": false,
+                "sector_breakdown": {
+                    "Financial Services": 14,
+                    "Realty": 5,
+                    "Power": 4,
+                    "Consumer Services": 2,
+                    "Construction": 1
+                },
+                "stocks": [
+                    "BANKBARODA",
+                    "INDIANB",
+                    "HDFCAMC",
+                    "NHPC",
+                    "IRFC",
+                    "TATAPOWER",
+                    "OBEROIRLTY",
+                    "RECLTD",
+                    "JSWENERGY",
+                    "LODHA",
+                    "JIOFIN",
+                    "INDHOTEL",
+                    "PNB",
+                    "MAHABANK",
+                    "IREDA",
+                    "PFC",
+                    "BANKINDIA",
+                    "GODREJPROP",
+                    "UNIONBANK",
+                    "IRCTC",
+                    "NTPC",
+                    "CANBK",
+                    "PRESTIGE",
+                    "DLF",
+                    "RVNL",
+                    "SBIN"
+                ]
+            },
+            {
+                "component_id": 2,
+                "size": 10,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Metals & Mining": 10
+                },
+                "stocks": [
+                    "HINDZINC",
+                    "VEDL",
+                    "TATASTEEL",
+                    "HINDALCO",
+                    "NATIONALUM",
+                    "JINDALSTEL",
+                    "HINDCOPPER",
+                    "SAIL",
+                    "JSWSTEEL",
+                    "NMDC"
+                ]
+            },
+            {
+                "component_id": 3,
+                "size": 9,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Information Technology": 9
+                },
+                "stocks": [
+                    "HCLTECH",
+                    "TECHM",
+                    "MPHASIS",
+                    "LTM",
+                    "COFORGE",
+                    "PERSISTENT",
+                    "INFY",
+                    "WIPRO",
+                    "TCS"
+                ]
+            },
+            {
+                "component_id": 4,
+                "size": 6,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 6
+                },
+                "stocks": [
+                    "SHRIRAMFIN",
+                    "BAJFINANCE",
+                    "ABCAPITAL",
+                    "CHOLAFIN",
+                    "BAJAJFINSV",
+                    "LTF"
+                ]
+            },
+            {
+                "component_id": 5,
+                "size": 6,
+                "is_single_sector": false,
+                "sector_breakdown": {
+                    "Power": 3,
+                    "Oil Gas & Consumable Fuels": 1,
+                    "Services": 1,
+                    "Metals & Mining": 1
+                },
+                "stocks": [
+                    "ATGL",
+                    "ADANIPORTS",
+                    "ADANIGREEN",
+                    "ADANIPOWER",
+                    "ADANIENSOL",
+                    "ADANIENT"
+                ]
+            },
+            {
+                "component_id": 6,
+                "size": 5,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 5
+                },
+                "stocks": [
+                    "BDL",
+                    "MAZDOCK",
+                    "HAL",
+                    "BEL",
+                    "COCHINSHIP"
+                ]
+            },
+            {
+                "component_id": 7,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Construction Materials": 3
+                },
+                "stocks": [
+                    "ULTRACEMCO",
+                    "GRASIM",
+                    "AMBUJACEM"
+                ]
+            },
+            {
+                "component_id": 8,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Automobile and Auto Components": 3
+                },
+                "stocks": [
+                    "BHARATFORG",
+                    "MOTHERSON",
+                    "TMPV"
+                ]
+            },
+            {
+                "component_id": 9,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Oil Gas & Consumable Fuels": 3
+                },
+                "stocks": [
+                    "IOC",
+                    "BPCL",
+                    "HINDPETRO"
+                ]
+            },
+            {
+                "component_id": 10,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Automobile and Auto Components": 3
+                },
+                "stocks": [
+                    "EICHERMOT",
+                    "TVSMOTOR",
+                    "M&M"
+                ]
+            },
+            {
+                "component_id": 11,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 3
+                },
+                "stocks": [
+                    "HDFCLIFE",
+                    "SBILIFE",
+                    "MFSL"
+                ]
+            },
+            {
+                "component_id": 12,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "SIEMENS",
+                    "ABB"
+                ]
+            },
+            {
+                "component_id": 13,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 2
+                },
+                "stocks": [
+                    "IDFCFIRSTB",
+                    "AUBANK"
+                ]
+            },
+            {
+                "component_id": 14,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Automobile and Auto Components": 2
+                },
+                "stocks": [
+                    "HEROMOTOCO",
+                    "BAJAJ-AUTO"
+                ]
+            },
+            {
+                "component_id": 15,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Consumer Durables": 2
+                },
+                "stocks": [
+                    "VOLTAS",
+                    "BLUESTARCO"
+                ]
+            },
+            {
+                "component_id": 16,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "KEI",
+                    "POLYCAB"
+                ]
+            },
+            {
+                "component_id": 17,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Oil Gas & Consumable Fuels": 2
+                },
+                "stocks": [
+                    "OIL",
+                    "ONGC"
+                ]
+            }
+        ]
+    },
+    {
+        "threshold_r": 0.7,
+        "total_non_trivial_components": 17,
+        "single_sector_components": 15,
+        "multi_sector_components": 2,
+        "components": [
+            {
+                "component_id": 1,
+                "size": 6,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 6
+                },
+                "stocks": [
+                    "BANKBARODA",
+                    "CANBK",
+                    "INDIANB",
+                    "BANKINDIA",
+                    "UNIONBANK",
+                    "PNB"
+                ]
+            },
+            {
+                "component_id": 2,
+                "size": 5,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Metals & Mining": 5
+                },
+                "stocks": [
+                    "TATASTEEL",
+                    "JINDALSTEL",
+                    "SAIL",
+                    "JSWSTEEL",
+                    "NMDC"
+                ]
+            },
+            {
+                "component_id": 3,
+                "size": 4,
+                "is_single_sector": false,
+                "sector_breakdown": {
+                    "Power": 2,
+                    "Services": 1,
+                    "Metals & Mining": 1
+                },
+                "stocks": [
+                    "ADANIPORTS",
+                    "ADANIENT",
+                    "ADANIGREEN",
+                    "ADANIENSOL"
+                ]
+            },
+            {
+                "component_id": 4,
+                "size": 4,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Realty": 4
+                },
+                "stocks": [
+                    "DLF",
+                    "OBEROIRLTY",
+                    "GODREJPROP",
+                    "PRESTIGE"
+                ]
+            },
+            {
+                "component_id": 5,
+                "size": 4,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Information Technology": 4
+                },
+                "stocks": [
+                    "INFY",
+                    "TECHM",
+                    "TCS",
+                    "HCLTECH"
+                ]
+            },
+            {
+                "component_id": 6,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 3
+                },
+                "stocks": [
+                    "HAL",
+                    "BEL",
+                    "BDL"
+                ]
+            },
+            {
+                "component_id": 7,
+                "size": 3,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Oil Gas & Consumable Fuels": 3
+                },
+                "stocks": [
+                    "IOC",
+                    "BPCL",
+                    "HINDPETRO"
+                ]
+            },
+            {
+                "component_id": 8,
+                "size": 3,
+                "is_single_sector": false,
+                "sector_breakdown": {
+                    "Financial Services": 2,
+                    "Construction": 1
+                },
+                "stocks": [
+                    "IREDA",
+                    "IRFC",
+                    "RVNL"
+                ]
+            },
+            {
+                "component_id": 9,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "SIEMENS",
+                    "ABB"
+                ]
+            },
+            {
+                "component_id": 10,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 2
+                },
+                "stocks": [
+                    "BAJAJFINSV",
+                    "BAJFINANCE"
+                ]
+            },
+            {
+                "component_id": 11,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "COCHINSHIP",
+                    "MAZDOCK"
+                ]
+            },
+            {
+                "component_id": 12,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Information Technology": 2
+                },
+                "stocks": [
+                    "PERSISTENT",
+                    "COFORGE"
+                ]
+            },
+            {
+                "component_id": 13,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Metals & Mining": 2
+                },
+                "stocks": [
+                    "NATIONALUM",
+                    "HINDALCO"
+                ]
+            },
+            {
+                "component_id": 14,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Metals & Mining": 2
+                },
+                "stocks": [
+                    "HINDZINC",
+                    "VEDL"
+                ]
+            },
+            {
+                "component_id": 15,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Capital Goods": 2
+                },
+                "stocks": [
+                    "KEI",
+                    "POLYCAB"
+                ]
+            },
+            {
+                "component_id": 16,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Oil Gas & Consumable Fuels": 2
+                },
+                "stocks": [
+                    "OIL",
+                    "ONGC"
+                ]
+            },
+            {
+                "component_id": 17,
+                "size": 2,
+                "is_single_sector": true,
+                "sector_breakdown": {
+                    "Financial Services": 2
+                },
+                "stocks": [
+                    "PFC",
+                    "RECLTD"
+                ]
+            }
+        ]
+    }
+]

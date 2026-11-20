@@ -1,0 +1,7 @@
+{
+    "total_triangles": 27566,
+    "pure_triangles": 2779,
+    "purity_pct": 10.08,
+    "null_mean_pct": 1.59,
+    "null_std_pct": 0.66
+}

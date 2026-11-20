@@ -1,0 +1,6 @@
+symbol,company_name,sector,degree,degree_rank,betweenness,betweenness_rank,eigenvector,eigenvector_rank
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,2,129,0.0,117,0.0118,99
+TCS,Tata Consultancy Services Ltd.,Information Technology,8,91,0.0,117,0.0,128
+HDFCBANK,HDFC Bank Ltd.,Financial Services,13,68,0.00035,90,0.044,69
+INFY,Infosys Ltd.,Information Technology,9,86,0.00363,47,0.0,128
+ICICIBANK,ICICI Bank Ltd.,Financial Services,6,98,3e-05,110,0.0168,93

@@ -1,0 +1,8 @@
+{
+    "spearman_degree_vs_mean_peer_correlation": 0.9116,
+    "p_value_peer_corr": 1.586570371976768e-74,
+    "spearman_degree_vs_market_factor_correlation": 0.9107,
+    "p_value_market_corr": 4.014068117465767e-74,
+    "spearman_degree_vs_beta": 0.5963,
+    "p_value_beta": 1.1225355704810153e-19
+}

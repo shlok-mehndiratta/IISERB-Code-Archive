@@ -1,0 +1,11 @@
+symbol,company_name,sector,degree,degree_centrality,betweenness_centrality,eigenvector_centrality,rank
+JIOFIN,Jio Financial Services Ltd.,Financial Services,70,0.3704,0.03412,0.2096,1
+RECLTD,REC Ltd.,Financial Services,69,0.3651,0.03109,0.2069,2
+DLF,DLF Ltd.,Realty,65,0.3439,0.09079,0.197,3
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,54,0.2857,0.01491,0.1808,4
+PFC,Power Finance Corporation Ltd.,Financial Services,57,0.3016,0.01681,0.1806,5
+GODREJPROP,Godrej Properties Ltd.,Realty,56,0.2963,0.0273,0.1778,6
+AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,51,0.2698,0.01258,0.1729,7
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,51,0.2698,0.01648,0.172,8
+CANBK,Canara Bank,Financial Services,46,0.2434,0.00615,0.1716,9
+ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,49,0.2593,0.02331,0.1663,10

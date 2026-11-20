@@ -1,0 +1,10 @@
+{
+    "lambda_1": 57.25,
+    "variance_explained_pct": 30.13,
+    "marchenko_pastur_bound": 2.62,
+    "raw_assortativity": 0.1412,
+    "residual_assortativity": 0.2585,
+    "raw_modularity_Q": 0.22,
+    "residual_modularity_Q": 0.3967,
+    "annual_half_jaccard_overlap": 26.67
+}

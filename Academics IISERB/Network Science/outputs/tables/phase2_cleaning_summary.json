@@ -1,0 +1,8 @@
+{
+    "initial_stocks": 200,
+    "dropped_stocks_count": 10,
+    "retained_stocks_count": 190,
+    "returns_trading_days": 495,
+    "returns_first_date": "2024-11-22",
+    "returns_last_date": "2026-11-20"
+}

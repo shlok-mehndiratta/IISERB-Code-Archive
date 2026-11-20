@@ -1,0 +1,11 @@
+symbol,company_name,sector,degree,degree_centrality,betweenness_centrality,eigenvector_centrality,rank
+LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,63,0.3333,0.10512,0.1279,1
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,7,0.037,0.09244,0.0024,2
+DLF,DLF Ltd.,Realty,101,0.5344,0.09029,0.1623,3
+PIDILITIND,Pidilite Industries Ltd.,Chemicals,22,0.1164,0.07443,0.0352,4
+JIOFIN,Jio Financial Services Ltd.,Financial Services,103,0.545,0.05636,0.1645,5
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,84,0.4444,0.05115,0.1414,6
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,85,0.4497,0.04947,0.1512,7
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,8,0.0423,0.0467,0.0008,8
+GODREJPROP,Godrej Properties Ltd.,Realty,88,0.4656,0.04069,0.1533,9
+MPHASIS,MphasiS Ltd.,Information Technology,11,0.0582,0.03283,0.0031,10

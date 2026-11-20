@@ -1,0 +1,11 @@
+{
+    "universe": "Nifty 200",
+    "requested_tickers_count": 200,
+    "downloaded_tickers_count": 200,
+    "valid_tickers_with_data_count": 200,
+    "failed_tickers_count": 0,
+    "failed_tickers": [],
+    "date_range_start": "2024-11-21",
+    "date_range_end": "2026-11-20",
+    "trading_days_count": 496
+}

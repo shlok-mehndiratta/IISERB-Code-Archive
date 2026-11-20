@@ -1,0 +1,14 @@
+Sector,Stocks,Internal_Edges,Possible_Edges,Internal_Density,Density_Ratio
+Financial Services,45,399,990,0.403,2.81
+Capital Goods,22,69,231,0.2987,2.08
+Healthcare,15,27,105,0.2571,1.79
+Automobile and Auto Components,14,44,91,0.4835,3.37
+Fast Moving Consumer Goods,14,20,91,0.2198,1.53
+Metals & Mining,11,50,55,0.9091,6.34
+Information Technology,10,43,45,0.9556,6.67
+Power,9,22,36,0.6111,4.26
+Oil Gas & Consumable Fuels,9,10,36,0.2778,1.94
+Consumer Services,9,7,36,0.1944,1.36
+Consumer Durables,7,5,21,0.2381,1.66
+Realty,6,15,15,1.0,6.98
+Chemicals,5,1,10,0.1,0.7

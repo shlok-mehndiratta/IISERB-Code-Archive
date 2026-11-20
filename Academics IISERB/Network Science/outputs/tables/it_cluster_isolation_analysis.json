@@ -1,0 +1,69 @@
+{
+    "total_it_stocks": 10,
+    "internal_it_edges": 43,
+    "max_possible_internal_edges": 45,
+    "internal_density": 0.9556,
+    "external_edges_to_non_it": 10,
+    "external_edges_breakdown": [
+        {
+            "it_stock": "COFORGE",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4561
+        },
+        {
+            "it_stock": "MPHASIS",
+            "external_stock": "DLF",
+            "external_sector": "Realty",
+            "correlation": 0.4029
+        },
+        {
+            "it_stock": "HCLTECH",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.421
+        },
+        {
+            "it_stock": "INFY",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4513
+        },
+        {
+            "it_stock": "LTM",
+            "external_stock": "IRCTC",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4029
+        },
+        {
+            "it_stock": "LTM",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4887
+        },
+        {
+            "it_stock": "MPHASIS",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.492
+        },
+        {
+            "it_stock": "PERSISTENT",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4734
+        },
+        {
+            "it_stock": "TCS",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4069
+        },
+        {
+            "it_stock": "TECHM",
+            "external_stock": "NAUKRI",
+            "external_sector": "Consumer Services",
+            "correlation": 0.4624
+        }
+    ]
+}

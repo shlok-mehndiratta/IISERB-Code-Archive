@@ -1,0 +1,10 @@
+{
+    "num_stocks": 190,
+    "num_pairs": 17955,
+    "mean_correlation": 0.2843,
+    "median_correlation": 0.2754,
+    "std_correlation": 0.1102,
+    "min_correlation": -0.099,
+    "max_correlation": 0.8669,
+    "pct_positive_pairs": 99.83
+}

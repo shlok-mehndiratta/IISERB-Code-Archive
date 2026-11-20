@@ -1,0 +1,11 @@
+Symbol,Company,Sector,Degree,Degree_Centrality,Betweenness,Eigenvector,Degree_Rank,Betweenness_Rank,Eigenvector_Rank
+JIOFIN,Jio Financial Services Ltd.,Financial Services,103,0.545,0.0564,0.1645,1,5,1
+DLF,DLF Ltd.,Realty,101,0.5344,0.0903,0.1623,2,3,2
+RECLTD,REC Ltd.,Financial Services,91,0.4815,0.0219,0.1581,3,13,3
+GODREJPROP,Godrej Properties Ltd.,Realty,88,0.4656,0.0407,0.1533,4,9,4
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,85,0.4497,0.0495,0.1512,5,7,5
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,85,0.4497,0.0175,0.1503,5,23,6
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,84,0.4444,0.0511,0.1414,7,6,13
+AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,84,0.4444,0.0194,0.1499,7,18,7
+PFC,Power Finance Corporation Ltd.,Financial Services,83,0.4392,0.02,0.1494,9,15,8
+TATAPOWER,Tata Power Co. Ltd.,Power,81,0.4286,0.0271,0.1421,10,11,12

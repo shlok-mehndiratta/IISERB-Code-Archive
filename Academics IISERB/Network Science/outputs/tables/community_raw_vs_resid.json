@@ -1,0 +1,16 @@
+{
+    "raw": {
+        "num_communities": 19,
+        "louvain_modularity": 0.2218,
+        "sector_modularity": 0.1183,
+        "nmi_vs_sectors": 0.5369,
+        "ari_vs_sectors": 0.2282
+    },
+    "resid": {
+        "num_communities": 6,
+        "louvain_modularity": 0.398,
+        "sector_modularity": 0.2299,
+        "nmi_vs_sectors": 0.4862,
+        "ari_vs_sectors": 0.2346
+    }
+}

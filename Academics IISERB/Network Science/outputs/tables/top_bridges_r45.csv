@@ -1,0 +1,11 @@
+symbol,company_name,sector,degree,deg_rank,betweenness_centrality,bet_rank,bridge_score
+ETERNAL,Eternal Ltd.,Consumer Services,4,110,0.08573,2,108
+GVT&D,GE Vernova T&D India Ltd.,Capital Goods,2,129,0.00771,31,98
+MCX,Multi Commodity Exchange of India Ltd.,Financial Services,2,129,0.00771,31,98
+ONGC,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,2,129,0.00771,31,98
+MFSL,Max Financial Services Ltd.,Financial Services,4,110,0.01531,17,93
+COALINDIA,Coal India Ltd.,Oil Gas & Consumable Fuels,4,110,0.01531,17,93
+NAUKRI,Info Edge (India) Ltd.,Consumer Services,7,95,0.07205,3,92
+HAVELLS,Havells India Ltd.,Consumer Durables,10,78,0.02324,11,67
+POLYCAB,Polycab India Ltd.,Capital Goods,4,110,0.00217,58,52
+FORTIS,Fortis Healthcare Ltd.,Healthcare,0,166,0.0,117,49

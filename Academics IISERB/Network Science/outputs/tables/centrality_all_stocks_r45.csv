@@ -1,0 +1,191 @@
+symbol,company_name,sector,degree,degree_centrality,betweenness_centrality,eigenvector_centrality
+360ONE,360 ONE WAM Ltd.,Financial Services,4,0.0212,0.0,0.0154
+ABB,ABB India Ltd.,Capital Goods,17,0.0899,0.00145,0.0656
+ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,49,0.2593,0.02331,0.1663
+ADANIENSOL,Adani Energy Solutions Ltd.,Power,11,0.0582,0.00191,0.0353
+ADANIENT,Adani Enterprises Ltd.,Metals & Mining,25,0.1323,0.00889,0.0932
+ADANIGREEN,Adani Green Energy Ltd.,Power,11,0.0582,0.00191,0.0372
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services,23,0.1217,0.00415,0.0951
+ADANIPOWER,Adani Power Ltd.,Power,5,0.0265,3e-05,0.0077
+AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,51,0.2698,0.01258,0.1729
+APARINDS,Apar Industries Ltd.,Capital Goods,0,0.0,0.0,0.0
+APLAPOLLO,APL Apollo Tubes Ltd.,Capital Goods,3,0.0159,0.0,0.015
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,1,0.0053,0.0,0.0
+ASHOKLEY,Ashok Leyland Ltd.,Capital Goods,38,0.2011,0.00894,0.1223
+ASIANPAINT,Asian Paints Ltd.,Consumer Durables,2,0.0106,0.0,0.0033
+ASTRAL,Astral Ltd.,Capital Goods,1,0.0053,0.0,0.0
+ATGL,Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,4,0.0212,0.0,0.005
+AUBANK,AU Small Finance Bank Ltd.,Financial Services,6,0.0317,1e-05,0.0185
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,4,0.0212,0.00017,0.0
+AXISBANK,Axis Bank Ltd.,Financial Services,13,0.0688,0.00793,0.0345
+BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile and Auto Components,6,0.0317,5e-05,0.0095
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,16,0.0847,0.00808,0.045
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,1,0.0053,0.0,0.0013
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,14,0.0741,0.00053,0.0404
+BANKBARODA,Bank of Baroda,Financial Services,40,0.2116,0.00407,0.1528
+BANKINDIA,Bank of India,Financial Services,35,0.1852,0.00252,0.1402
+BDL,Bharat Dynamics Ltd.,Capital Goods,8,0.0423,0.00028,0.0224
+BEL,Bharat Electronics Ltd.,Capital Goods,29,0.1534,0.00741,0.0934
+BHARATFORG,Bharat Forge Ltd.,Automobile and Auto Components,14,0.0741,0.0002,0.061
+BHARTIARTL,Bharti Airtel Ltd.,Telecommunication,0,0.0,0.0,0.0
+BHEL,Bharat Heavy Electricals Ltd.,Capital Goods,35,0.1852,0.01245,0.1159
+BIOCON,Biocon Ltd.,Healthcare,1,0.0053,0.0,0.0
+BLUESTARCO,Blue Star Ltd.,Consumer Durables,2,0.0106,0.0,0.0006
+BOSCHLTD,Bosch Ltd.,Automobile and Auto Components,3,0.0159,0.0,0.0067
+BPCL,Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,24,0.127,0.00065,0.1025
+BRITANNIA,Britannia Industries Ltd.,Fast Moving Consumer Goods,4,0.0212,0.00018,0.0
+BSE,BSE Ltd.,Financial Services,1,0.0053,0.0,0.0001
+CANBK,Canara Bank,Financial Services,46,0.2434,0.00615,0.1716
+CGPOWER,CG Power and Industrial Solutions Ltd.,Capital Goods,18,0.0952,0.01867,0.0506
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Financial Services,20,0.1058,0.00141,0.0654
+CIPLA,Cipla Ltd.,Healthcare,2,0.0106,0.0,0.0
+COALINDIA,Coal India Ltd.,Oil Gas & Consumable Fuels,4,0.0212,0.01531,0.0092
+COCHINSHIP,Cochin Shipyard Ltd.,Capital Goods,9,0.0476,6e-05,0.0324
+COFORGE,Coforge Ltd.,Information Technology,10,0.0529,0.00612,0.0
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,5,0.0265,0.00036,0.0
+CONCOR,Container Corporation of India Ltd.,Services,10,0.0529,2e-05,0.0497
+CUMMINSIND,Cummins India Ltd.,Capital Goods,4,0.0212,0.0,0.0086
+DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,3,0.0159,7e-05,0.0
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,1,0.0053,0.0,0.0
+DIXON,Dixon Technologies (India) Ltd.,Consumer Durables,4,0.0212,0.0,0.0217
+DLF,DLF Ltd.,Realty,65,0.3439,0.09079,0.197
+DMART,Avenue Supermarts Ltd.,Consumer Services,0,0.0,0.0,0.0
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,2,0.0106,0.0,0.0
+EICHERMOT,Eicher Motors Ltd.,Automobile and Auto Components,13,0.0688,0.00113,0.0344
+ETERNAL,Eternal Ltd.,Consumer Services,4,0.0212,0.08573,0.0102
+EXIDEIND,Exide Industries Ltd.,Automobile and Auto Components,18,0.0952,0.00224,0.0694
+FEDERALBNK,Federal Bank Ltd.,Financial Services,6,0.0317,0.0,0.0245
+FORTIS,Fortis Healthcare Ltd.,Healthcare,0,0.0,0.0,0.0
+GAIL,GAIL (India) Ltd.,Oil Gas & Consumable Fuels,41,0.2169,0.00343,0.1552
+GLENMARK,Glenmark Pharmaceuticals Ltd.,Healthcare,1,0.0053,0.0,0.0
+GMRAIRPORT,GMR Airports Ltd.,Services,29,0.1534,0.00089,0.1227
+GODFRYPHLP,Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+GODREJCP,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,2,0.0106,0.0,0.0
+GODREJPROP,Godrej Properties Ltd.,Realty,56,0.2963,0.0273,0.1778
+GRASIM,Grasim Industries Ltd.,Construction Materials,17,0.0899,0.00114,0.0604
+GVT&D,GE Vernova T&D India Ltd.,Capital Goods,2,0.0106,0.00771,0.0015
+HAL,Hindustan Aeronautics Ltd.,Capital Goods,20,0.1058,0.00304,0.0674
+HAVELLS,Havells India Ltd.,Consumer Durables,10,0.0529,0.02324,0.0215
+HCLTECH,HCL Technologies Ltd.,Information Technology,8,0.0423,0.0,0.0
+HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,46,0.2434,0.00986,0.153
+HDFCBANK,HDFC Bank Ltd.,Financial Services,13,0.0688,0.00035,0.044
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,2,0.0106,0.0,0.0003
+HEROMOTOCO,Hero MotoCorp Ltd.,Automobile and Auto Components,10,0.0529,0.00075,0.0187
+HINDALCO,Hindalco Industries Ltd.,Metals & Mining,10,0.0529,6e-05,0.0199
+HINDCOPPER,Hindustan Copper Ltd.,Metals & Mining,15,0.0794,0.00114,0.0401
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,14,0.0741,5e-05,0.063
+HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,5,0.0265,0.00053,0.0
+HINDZINC,Hindustan Zinc Ltd.,Metals & Mining,11,0.0582,0.00017,0.0261
+HYUNDAI,Hyundai Motor India Ltd.,Automobile and Auto Components,0,0.0,0.0,0.0
+ICICIBANK,ICICI Bank Ltd.,Financial Services,6,0.0317,3e-05,0.0168
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,Financial Services,0,0.0,0.0,0.0
+IDEA,Vodafone Idea Ltd.,Telecommunication,1,0.0053,0.0,0.0
+IDFCFIRSTB,IDFC First Bank Ltd.,Financial Services,20,0.1058,0.00304,0.0826
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,46,0.2434,0.05327,0.156
+INDIANB,Indian Bank,Financial Services,22,0.1164,0.00086,0.0899
+INDIGO,InterGlobe Aviation Ltd.,Services,27,0.1429,0.00872,0.0971
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,0,0.0,0.0,0.0
+INDUSTOWER,Indus Towers Ltd.,Telecommunication,1,0.0053,0.0,0.0
+INFY,Infosys Ltd.,Information Technology,9,0.0476,0.00363,0.0
+IOC,Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,41,0.2169,0.0035,0.1586
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,51,0.2698,0.01648,0.172
+IREDA,Indian Renewable Energy Development Agency Ltd.,Financial Services,40,0.2116,0.00381,0.1523
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,54,0.2857,0.01491,0.1808
+ITC,ITC Ltd.,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+JINDALSTEL,Jindal Steel Ltd.,Metals & Mining,25,0.1323,0.00439,0.087
+JIOFIN,Jio Financial Services Ltd.,Financial Services,70,0.3704,0.03412,0.2096
+JSWENERGY,JSW Energy Ltd.,Power,13,0.0688,0.00023,0.0515
+JSWSTEEL,JSW Steel Ltd.,Metals & Mining,16,0.0847,0.00199,0.0458
+JUBLFOOD,Jubilant Foodworks Ltd.,Consumer Services,1,0.0053,0.0,0.0045
+KALYANKJIL,Kalyan Jewellers India Ltd.,Consumer Durables,1,0.0053,0.0,0.0051
+KEI,KEI Industries Ltd.,Capital Goods,2,0.0106,0.0,0.0008
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,1,0.0053,0.0,0.001
+LAURUSLABS,Laurus Labs Ltd.,Healthcare,5,0.0265,0.00084,0.0
+LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,27,0.1429,0.00058,0.118
+LICI,Life Insurance Corporation of India,Financial Services,29,0.1534,0.00116,0.1193
+LODHA,Lodha Developers Ltd.,Realty,14,0.0741,0.00025,0.0531
+LT,Larsen & Toubro Ltd.,Construction,44,0.2328,0.00647,0.1581
+LTF,L&T Finance Ltd.,Financial Services,40,0.2116,0.01536,0.1293
+LTM,LTM Ltd.,Information Technology,9,0.0476,0.00363,0.0
+LUPIN,Lupin Ltd.,Healthcare,5,0.0265,0.00062,0.0
+M&M,Mahindra & Mahindra Ltd.,Automobile and Auto Components,22,0.1164,0.00328,0.0516
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Financial Services,6,0.0317,2e-05,0.0199
+MAHABANK,Bank of Maharashtra,Financial Services,21,0.1111,0.00022,0.0875
+MANKIND,Mankind Pharma Ltd.,Healthcare,0,0.0,0.0,0.0
+MARICO,Marico Ltd.,Fast Moving Consumer Goods,2,0.0106,0.0,0.0
+MARUTI,Maruti Suzuki India Ltd.,Automobile and Auto Components,7,0.037,5e-05,0.01
+MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,1,0.0053,0.0,0.0
+MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,Capital Goods,16,0.0847,0.00185,0.0561
+MCX,Multi Commodity Exchange of India Ltd.,Financial Services,2,0.0106,0.00771,0.0035
+MFSL,Max Financial Services Ltd.,Financial Services,4,0.0212,0.01531,0.0086
+MOTHERSON,Samvardhana Motherson International Ltd.,Automobile and Auto Components,47,0.2487,0.02221,0.1562
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,Financial Services,26,0.1376,0.00158,0.1005
+MPHASIS,MphasiS Ltd.,Information Technology,10,0.0529,0.00612,0.0
+MRF,MRF Ltd.,Automobile and Auto Components,0,0.0,0.0,0.0
+MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,0,0.0,0.0,0.0
+NATIONALUM,National Aluminium Co. Ltd.,Metals & Mining,8,0.0423,0.0,0.0142
+NAUKRI,Info Edge (India) Ltd.,Consumer Services,7,0.037,0.07205,0.0003
+NESTLEIND,Nestle India Ltd.,Fast Moving Consumer Goods,2,0.0106,0.0,0.0
+NHPC,NHPC Ltd.,Power,17,0.0899,0.00032,0.0695
+NLCINDIA,NLC India Ltd.,Power,4,0.0212,0.0,0.0192
+NMDC,NMDC Ltd.,Metals & Mining,38,0.2011,0.03119,0.1205
+NTPC,NTPC Ltd.,Power,12,0.0635,0.00117,0.0388
+NYKAA,FSN E-Commerce Ventures Ltd.,Consumer Services,0,0.0,0.0,0.0
+OBEROIRLTY,Oberoi Realty Ltd.,Realty,20,0.1058,0.00222,0.0787
+OFSS,Oracle Financial Services Software Ltd.,Information Technology,4,0.0212,0.0,0.0
+OIL,Oil India Ltd.,Oil Gas & Consumable Fuels,1,0.0053,0.0,0.0
+ONGC,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,2,0.0106,0.00771,0.0003
+PAGEIND,Page Industries Ltd.,Textiles,0,0.0,0.0,0.0
+PATANJALI,Patanjali Foods Ltd.,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+PAYTM,One 97 Communications Ltd.,Financial Services,4,0.0212,0.0,0.0198
+PERSISTENT,Persistent Systems Ltd.,Information Technology,10,0.0529,0.00612,0.0
+PFC,Power Finance Corporation Ltd.,Financial Services,57,0.3016,0.01681,0.1806
+PHOENIXLTD,Phoenix Mills Ltd.,Realty,7,0.037,1e-05,0.0248
+PIDILITIND,Pidilite Industries Ltd.,Chemicals,6,0.0317,0.00058,0.0168
+PIIND,PI Industries Ltd.,Chemicals,0,0.0,0.0,0.0
+PNB,Punjab National Bank,Financial Services,43,0.2275,0.00481,0.1645
+POLICYBZR,PB Fintech Ltd.,Financial Services,0,0.0,0.0,0.0
+POLYCAB,Polycab India Ltd.,Capital Goods,4,0.0212,0.00217,0.0055
+POWERGRID,Power Grid Corporation of India Ltd.,Power,4,0.0212,0.0,0.0169
+POWERINDIA,Hitachi Energy India Ltd.,Capital Goods,1,0.0053,0.0,0.0
+PREMIERENE,Premier Energies Ltd.,Capital Goods,1,0.0053,0.0,0.0
+PRESTIGE,Prestige Estates Projects Ltd.,Realty,19,0.1005,0.00133,0.0682
+RADICO,Radico Khaitan Ltd,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+RECLTD,REC Ltd.,Financial Services,69,0.3651,0.03109,0.2069
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,2,0.0106,0.0,0.0118
+RVNL,Rail Vikas Nigam Ltd.,Construction,48,0.254,0.0113,0.1651
+SAIL,Steel Authority of India Ltd.,Metals & Mining,19,0.1005,0.00159,0.0625
+SBICARD,SBI Cards and Payment Services Ltd.,Financial Services,10,0.0529,4e-05,0.0387
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,2,0.0106,0.0,0.0003
+SBIN,State Bank of India,Financial Services,20,0.1058,0.00067,0.084
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,49,0.2593,0.01403,0.1534
+SIEMENS,Siemens Ltd.,Capital Goods,18,0.0952,0.00156,0.0658
+SOLARINDS,Solar Industries India Ltd.,Chemicals,4,0.0212,0.0,0.0069
+SRF,SRF Ltd.,Chemicals,0,0.0,0.0,0.0
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,2,0.0106,0.0,0.0
+SUPREMEIND,Supreme Industries Ltd.,Capital Goods,1,0.0053,0.0,0.0
+SUZLON,Suzlon Energy Ltd.,Capital Goods,20,0.1058,0.00093,0.085
+SWIGGY,Swiggy Ltd.,Consumer Services,1,0.0053,0.0,0.0003
+TATACOMM,Tata Communications Ltd.,Telecommunication,0,0.0,0.0,0.0
+TATACONSUM,Tata Consumer Products Ltd.,Fast Moving Consumer Goods,1,0.0053,0.0,0.0
+TATAPOWER,Tata Power Co. Ltd.,Power,51,0.2698,0.0277,0.1587
+TATASTEEL,Tata Steel Ltd.,Metals & Mining,29,0.1534,0.00581,0.0974
+TCS,Tata Consultancy Services Ltd.,Information Technology,8,0.0423,0.0,0.0
+TECHM,Tech Mahindra Ltd.,Information Technology,9,0.0476,0.00363,0.0
+TIINDIA,Tube Investments of India Ltd.,Automobile and Auto Components,4,0.0212,7e-05,0.0138
+TITAN,Titan Company Ltd.,Consumer Durables,0,0.0,0.0,0.0
+TMPV,Tata Motors Passenger Vehicles Ltd.,Automobile and Auto Components,15,0.0794,0.00181,0.0532
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,0,0.0,0.0,0.0
+TRENT,Trent Ltd.,Consumer Services,0,0.0,0.0,0.0
+TVSMOTOR,TVS Motor Company Ltd.,Automobile and Auto Components,23,0.1217,0.00777,0.0572
+ULTRACEMCO,UltraTech Cement Ltd.,Construction Materials,30,0.1587,0.00432,0.0984
+UNIONBANK,Union Bank of India,Financial Services,32,0.1693,0.00199,0.1292
+UNITDSPR,United Spirits Ltd.,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+UPL,UPL Ltd.,Chemicals,2,0.0106,0.0,0.0074
+VBL,Varun Beverages Ltd.,Fast Moving Consumer Goods,0,0.0,0.0,0.0
+VEDL,Vedanta Ltd.,Metals & Mining,13,0.0688,0.00028,0.0357
+VOLTAS,Voltas Ltd.,Consumer Durables,2,0.0106,0.0,0.0006
+WAAREEENER,Waaree Energies Ltd.,Capital Goods,1,0.0053,0.0,0.0
+WIPRO,Wipro Ltd.,Information Technology,9,0.0476,7e-05,0.0
+YESBANK,Yes Bank Ltd.,Financial Services,11,0.0582,3e-05,0.0477
+ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,5,0.0265,0.00079,0.0

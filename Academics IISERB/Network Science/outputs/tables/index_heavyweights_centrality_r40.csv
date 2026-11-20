@@ -1,0 +1,6 @@
+Symbol,Company,Sector,Degree,Degree_Centrality,Betweenness,Eigenvector,Degree_Rank,Betweenness_Rank,Eigenvector_Rank
+HDFCBANK,HDFC Bank Ltd.,Financial Services,23,0.1217,0.0005,0.0431,78,102,85
+ICICIBANK,ICICI Bank Ltd.,Financial Services,18,0.0952,0.0005,0.0322,92,102,93
+INFY,Infosys Ltd.,Information Technology,10,0.0529,0.0001,0.0002,107,117,149
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,7,0.037,0.0,0.0183,125,136,108
+TCS,Tata Consultancy Services Ltd.,Information Technology,9,0.0476,0.0,0.0002,115,136,149

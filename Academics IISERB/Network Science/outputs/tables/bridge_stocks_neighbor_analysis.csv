@@ -1,0 +1,7 @@
+symbol,company_name,sector,degree,intra_sector_neighbors,inter_sector_neighbors,inter_sector_pct,neighbor_sectors_breakdown
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,7,6,1,14.29,"{'Healthcare': 6, 'Financial Services': 1}"
+PIDILITIND,Pidilite Industries Ltd.,Chemicals,22,0,22,100.0,"{'Financial Services': 6, 'Construction Materials': 3, 'Consumer Durables': 3, 'Automobile and Auto Components': 3, 'Fast Moving Consumer Goods': 2, 'Realty': 2, 'Consumer Services': 1, 'Services': 1, 'Oil Gas & Consumable Fuels': 1}"
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,8,6,2,25.0,"{'Fast Moving Consumer Goods': 6, 'Consumer Durables': 1, 'Chemicals': 1}"
+DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,5,4,1,20.0,"{'Fast Moving Consumer Goods': 4, 'Chemicals': 1}"
+MPHASIS,MphasiS Ltd.,Information Technology,11,9,2,18.18,"{'Information Technology': 9, 'Realty': 1, 'Consumer Services': 1}"
+LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,63,24,39,61.9,"{'Financial Services': 24, 'Capital Goods': 7, 'Metals & Mining': 6, 'Realty': 5, 'Services': 4, 'Oil Gas & Consumable Fuels': 4, 'Automobile and Auto Components': 3, 'Construction Materials': 2, 'Consumer Services': 2, 'Construction': 2, 'Power': 2, 'Healthcare': 1, 'Telecommunication': 1}"

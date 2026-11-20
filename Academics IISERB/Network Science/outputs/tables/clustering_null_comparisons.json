@@ -1,0 +1,20 @@
+{
+    "r40": {
+        "empirical_clustering": 0.6446,
+        "gnm_mean": 0.1437,
+        "gnm_std": 0.0022,
+        "rewired_mean": 0.5375,
+        "rewired_std": 0.008,
+        "ratio_vs_gnm": 4.49,
+        "ratio_vs_rewired": 1.2
+    },
+    "r45": {
+        "empirical_clustering": 0.5336,
+        "gnm_mean": 0.0731,
+        "gnm_std": 0.0032,
+        "rewired_mean": 0.3417,
+        "rewired_std": 0.014,
+        "ratio_vs_gnm": 7.3,
+        "ratio_vs_rewired": 1.56
+    }
+}

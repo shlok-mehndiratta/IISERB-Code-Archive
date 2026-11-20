@@ -1,0 +1,22 @@
+metric,baseline_r40,robustness_r45
+Number of Nodes (N),190.0,190.0
+Number of Edges (M),2574.0,1311.0
+Density,0.1434,0.073
+Giant Component Size,175.0,139.0
+Giant Component % of N,92.11,73.16
+Isolated Nodes Count,12.0,25.0
+Average Degree,27.0947,13.8
+Power Law Exponent (alpha),1.5468,2.384
+Power Law xmin,4.0,15.0
+Log-Likelihood Ratio R (Power Law vs Exp),-5.2039,-4.0391
+p-value (Power Law vs Exp),0.0,0.0001
+Average Clustering Coefficient,0.6446,0.5336
+Transitivity,0.6133,0.5308
+Erdos-Renyi Baseline Clustering,0.1437,0.0731
+Assortativity (Original 18 Sectors),0.1412,0.2413
+Assortativity (Merged 14 Sectors),0.1435,0.2472
+Actual Intra-Sector Edge Fraction,0.2805,0.3745
+Expected Intra-Sector Edge Fraction,0.1622,0.1756
+Top-10 Degree Overlap with r=0.40 (/10),10.0,9.0
+Top-10 Betweenness Overlap with r=0.40 (/10),10.0,4.0
+Top-10 Eigenvector Overlap with r=0.40 (/10),10.0,8.0

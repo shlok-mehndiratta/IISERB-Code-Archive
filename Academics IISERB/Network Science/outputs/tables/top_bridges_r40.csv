@@ -1,0 +1,11 @@
+symbol,company_name,sector,degree,deg_rank,betweenness_centrality,bet_rank,bridge_score
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,7,125,0.09244,2,123
+DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,5,141,0.01886,19,122
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,8,122,0.0467,8,114
+SUPREMEIND,Supreme Industries Ltd.,Capital Goods,6,132,0.00974,35,97
+HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,8,122,0.01446,26,96
+BIOCON,Biocon Ltd.,Healthcare,4,148,0.00476,53,95
+ASIANPAINT,Asian Paints Ltd.,Consumer Durables,6,132,0.00929,37,95
+LUPIN,Lupin Ltd.,Healthcare,9,115,0.01792,21,94
+MPHASIS,MphasiS Ltd.,Information Technology,11,103,0.03283,10,93
+MFSL,Max Financial Services Ltd.,Financial Services,7,125,0.0098,33,92

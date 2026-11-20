@@ -1,0 +1,14 @@
+sector,stocks_count,intra_edges,max_possible_internal_edges,internal_density,expected_intra_edges,enrichment_ratio
+Fast Moving Consumer Goods,14,12,91,0.1319,0.1,109.25
+Healthcare,15,15,105,0.1429,0.2,87.4
+Consumer Durables,7,3,21,0.1429,0.1,35.67
+Information Technology,10,40,45,0.8889,1.4,28.36
+Metals & Mining,11,44,55,0.8,8.3,5.28
+Automobile and Auto Components,14,33,91,0.3626,6.3,5.22
+Power,9,15,36,0.4167,3.1,4.8
+Capital Goods,22,40,231,0.1732,11.7,3.41
+Realty,6,15,15,1.0,6.2,2.4
+Oil Gas & Consumable Fuels,9,8,36,0.2222,3.4,2.37
+Consumer Services,9,5,36,0.1389,2.3,2.17
+Financial Services,45,254,990,0.2566,182.0,1.4
+Chemicals,5,0,10,0.0,0.0,0.0
